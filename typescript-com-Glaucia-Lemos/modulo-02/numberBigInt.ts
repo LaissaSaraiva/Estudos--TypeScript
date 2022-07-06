@@ -13,5 +13,4 @@ console.log(num4);
 
 
 // ==> Exemplo 2:number
-
-let big1 = 
+ 

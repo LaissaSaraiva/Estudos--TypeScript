@@ -10,4 +10,3 @@ console.log(num3);
 console.log(typeof (num3));
 console.log(num4);
 // ==> Exemplo 2:number
-let big1 = ;
