@@ -20,5 +20,5 @@ console.log(reject());
 
 // Exemplos 04 ==> Diferenças entre 'never' ou 'void'
 
-const algumaCoisaVoid: void = null;
-const algumaCoisaNever: never = null;
+// const algumaCoisaVoid: void = null;
+// const algumaCoisaNever: never = null;
